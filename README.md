@@ -1,4 +1,5 @@
 # Admin-Panel 
+In this project there are two admin and user access, If you log in with Admin username, the admin panel is displayed to you And if you log in with other username, user access is displayed to you (The password is desired and is not checked)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
